@@ -1,3 +1,4 @@
+// Mobile device check (can be overridden by spoofing the user agent)
 function isMobileDevice() {
     return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
 }
