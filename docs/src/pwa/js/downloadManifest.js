@@ -5,6 +5,6 @@ function isMobileDevice() {
 if (isMobileDevice()) {
     const link = document.createElement('link');
     link.rel = 'manifest';
-    link.href = '../json/manifest.json';
+    link.href = 'src/pwa/json/manifest.json';
     document.head.appendChild(link);
 }
