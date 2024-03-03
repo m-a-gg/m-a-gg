@@ -1,7 +1,7 @@
 {
   "name": "M&A Gizmo Gurus",
   "short_name": "M&A",
-  "start_url": "/pwa/landing.html",
+  "start_url": "../../../pwa/landing.html",
   "display": "standalone",
   "theme_color": "#361f7a",
   "background_color": "#4c3297",
